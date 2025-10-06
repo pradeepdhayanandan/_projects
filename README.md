@@ -1,2 +1,2 @@
-# colab_projects
-Google Colab Projects
+# projects
+Pradeep Projects include colab notebooks and case study pdf's
